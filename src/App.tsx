@@ -1,5 +1,5 @@
 import "./App.css";
-import { Accordion } from "./reusable/Accordion/accordion";
+import { Accordion } from "./reusable/Accordion/Accordion";
 
 const objContent = [
     {
